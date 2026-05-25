@@ -1,4 +1,4 @@
-![Banner](https://github.com/Bomberfra23/Amazon-IT-Price-Tracker/blob/v0.1.0/images/banner.jpg)
+![Banner](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.1.0/images/banner.jpg)
 Thanks to Riccardo Piras for logos and graphics
 
 <a href="https://docs.python.org/3.12/" target="_blank"><img src="https://badgen.net/badge/icon/Python 3.12 ?icon=pypi&label" ></a>
@@ -28,7 +28,7 @@ Multiplatform automated Amazon IT Price Tracker with several type of alerts and 
 > responsible for any misuse of this software. This tool should not be used to violate the rights of others, for unethical
 > purposes, or to use data in an unauthorized or illegal manner.
 
-For any concerns, please contact me on Telegram by clicking its icon. I will promptly reply.
+For any concerns, please contact me on Github. I will promptly reply.
 
 ## 📦 Requirements
 
@@ -42,7 +42,7 @@ To install and use this script you need:
 Download files on your PC using git clone or download ZIP
 
 ```shell
-git clone https://github.com/Bomberfra23/Amazon-IT-Price-Tracker
+git clone https://github.com/franco-p-dev/Amazon-IT-Price-Tracker
 cd Amazon-IT-Price-Tracker
 ```
 
@@ -55,7 +55,7 @@ cd Amazon-IT-Price-Tracker
 .\setup.bat
 ```
 
-![Windows Install GIF](https://github.com/Bomberfra23/Amazon-IT-Price-Tracker/blob/v0.0.1/images/WindowsInstall.gif)
+![Windows Install GIF](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.0.1/images/WindowsInstall.gif)
 
 ### MacOS / Linux
 
@@ -87,13 +87,13 @@ cd Amazon-IT-Price-Tracker
 python3 main.py
 ```
 
-![Main Menu Image](https://github.com/Bomberfra23/Amazon-IT-Price-Tracker/blob/v0.0.1/images/mainmenu_Image.png)
+![Main Menu Image](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.0.1/images/mainmenu_Image.png)
 
 If you see this screen probably you are on the right way. Now, pressing any key, the script will test all the credentials 
 and configuration in the .env that you have filled in. It will be enough for just one not to be valid to prevent the program 
 from starting, so check carefully.
 
-![Check Config Image](https://github.com/Bomberfra23/Amazon-IT-Price-Tracker/blob/v0.1.0/images/check_configuration.png)
+![Check Config Image](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.1.0/images/check_configuration.png)
 
 ### 🤖 Telegram BOT
 
