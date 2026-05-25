@@ -28,7 +28,7 @@ __version__ = 'BETA V0.1.0'
 
 
 def main():
-    print(generate_logo(__version__, "Franco Pisani"))
+    print(generate_logo(__version__, "franco-p-dev"))
     input("Press any key to check credentials and configuration before starting...")
 
     # Check of the .env setup and credentials. If one is not valid, the program flow terminates
