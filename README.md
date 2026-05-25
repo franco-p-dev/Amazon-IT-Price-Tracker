@@ -99,8 +99,6 @@ from starting, so check carefully.
 
 Once the script has started, the messaging service via Telegram Bot will start. Reach your @ of your Telegram BOT and enter <code>/start</code>
 
-![Start Telegram BOT Image](https://github.com/Bomberfra23/Amazon-IT-Price-Tracker/blob/v0.1.0/images/start_command.gif)
-
 This is a Telegram BOT capable of offering centralized control of product scraping! It can be used by hundreds of users simultaneously to monitor
 what they like best and be notified of personalized offers! Let's the integrated commands.
 
