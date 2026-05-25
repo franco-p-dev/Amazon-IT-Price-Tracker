@@ -87,13 +87,13 @@ cd Amazon-IT-Price-Tracker
 python3 main.py
 ```
 
-![Main Menu Image](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.0.1/images/mainmenu_Image.png)
+![Main Menu Image](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.0.1/images/mainmenu_Image_v2.png)
 
 If you see this screen probably you are on the right way. Now, pressing any key, the script will test all the credentials 
 and configuration in the .env that you have filled in. It will be enough for just one not to be valid to prevent the program 
 from starting, so check carefully.
 
-![Check Config Image](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.1.0/images/check_configuration.png)
+![Check Config Image](https://github.com/franco-p-dev/Amazon-IT-Price-Tracker/blob/v0.1.0/images/check_configuration_v2.png)
 
 ### 🤖 Telegram BOT
 
